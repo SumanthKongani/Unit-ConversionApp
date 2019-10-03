@@ -1,0 +1,299 @@
+{
+    "Length": [
+      {
+        "name": "Meter",
+        "conversion": 1.0,
+        "description": "The length of the path traveled by the light in vacuum during a time interval of 1/299,792,458 of a second.",
+        "base_unit": true
+      },
+      {
+        "name": "Kilo-meter",
+        "conversion": 0.001,
+        "description": "nil"
+      },
+      {
+        "name": "Centi-meter",
+        "conversion": 100.0,
+        "description": "nil"
+      },
+      {
+        "name": "Milli-meter",
+        "conversion": 1000.0,
+        "description": "nil"
+      },
+      {
+        "name": "Micro-meter",
+        "conversion": 1000000.0,
+        "description": "nil"
+      },
+      {
+        "name": "Nano-meter",
+        "conversion": 1000000000.0,
+        "description": "nil"
+      },
+      {
+        "name": "Mile",
+        "conversion": 0.000621,
+        "description": "nil"
+      },
+      {
+        "name": "Foot",
+        "conversion": 3.28084,
+        "description": "nil"
+      },
+      {
+        "name": "Inch",
+        "conversion": 39.3701,
+        "description": "nil"
+      }
+    ],
+    "Area": [
+      {
+        "name": "Square Meter",
+        "conversion": 1.0,
+        "description": "1 meter length and 1 meter width.",
+        "base_unit": true
+      },
+      {
+        "name": "Square Kilometer",
+        "conversion": 0.000001,
+        "description": "nil"
+      },
+      {
+        "name": "Square Mile",
+        "conversion": 0.00000003861,
+        "description": "nil"
+      },
+      {
+        "name": "Square Yard",
+        "conversion": 1.19599,
+        "description": "nil"
+      },
+      {
+        "name": "Acre",
+        "conversion": 0.000247105,
+        "description": "nil"
+      },
+      {
+        "name": "Hectare",
+        "conversion": 0.0001,
+        "description": "nil"
+      }
+    ],
+    "Volume": [
+      {
+        "name": "Cubic meter",
+        "conversion": 1.0,
+        "description": "A cube with each edge being one meter in length.",
+        "base_unit": true
+      },
+      {
+        "name": "Litre",
+        "conversion": 1000.0,
+        "description": "nil"
+      },
+      {
+        "name": "Milli-Litre",
+        "conversion": 1000000.0,
+        "description": "nil"
+      },
+      {
+        "name": "Imperial-Gallon",
+        "conversion": 219.969,
+        "description": "nil"
+      },
+      {
+        "name": "Imperial-Tablespoon",
+        "conversion": 56312.0407318515,
+        "description": "nil"
+      },
+      {
+        "name": "Imperial-cup",
+        "conversion": 3519.5043096378931295,
+        "description": "nil"
+      }
+    ],
+    "Mass": [
+      {
+        "name": "Kilogram",
+        "conversion": 1.0,
+        "description": "The mass of a giant block of metal named the International Prototype of the Kilogram.",
+        "base_unit": true
+      },
+      {
+        "name": "Tonne",
+        "conversion": 0.001,
+        "description": "nil"
+      },
+      {
+        "name": "Gram",
+        "conversion": 1000,
+        "description": "nil"
+      },
+      {
+        "name": "Milli-Gram",
+        "conversion": 1000000,
+        "description": "nill"
+      },
+      {
+        "name": "Micro-Gram",
+        "conversion": 1000000000,
+        "description": "nil"
+      },
+      {
+        "name": "Imperial-Tonne",
+        "conversion": 0.000984207,
+        "description": "nil"
+      },
+      {
+        "name": "Pound",
+        "conversion": 2.20462367999995257,
+        "description": "nil"
+      }
+    ],
+    "Time": [
+      {
+        "name": "Second",
+        "conversion": 1.0,
+        "description": "Give me a second while I look this up...",
+        "base_unit": true
+      },
+      {
+        "name": "Nano-Second",
+        "conversion": 1000000000,
+        "description": "nil"
+      },
+      {
+        "name": "Micro-Second",
+        "conversion": 1000000,
+        "description": "nil"
+      },
+      {
+        "name": "Milli-Second",
+        "conversion": 1000.0,
+        "description": "nil"
+      },
+      {
+        "name": "Minute",
+        "conversion": 0.016667,
+        "description": "nil"
+      },
+      {
+        "name": "Hour",
+        "conversion": 0.000277778,
+        "description": "nil"
+      },
+      {
+        "name": "Day",
+        "conversion": 0.0000116,
+        "description": "nil"
+      },
+      {
+        "name": "Week",
+        "conversion": 0.00000165,
+        "description": "nil"
+      },
+      {
+        "name": "Month",
+        "conversion": 0.00000038,
+        "description": "nil"
+      },
+      {
+        "name": "Year",
+        "conversion": 0.000000032,
+        "description": "nil"
+      },
+      {
+        "name": "Decade",
+        "conversion": 0.0000000032,
+        "description": "nil"
+      }
+    ],
+    "Digital Storage": [
+      {
+        "name": "Megabit",
+        "conversion": 1.0,
+        "description": "This was considered a lot of space back in the day.",
+        "base_unit": true
+      },
+      {
+        "name": "Bit",
+        "conversion": 1000000,
+        "description": "Wow, two copies of the Encyclopedia Britannica can fit in this much space! Why you would want two copies remains to be ascertained."
+      },
+      {
+        "name": "Byte",
+        "conversion": 125000,
+        "description": "All the text from the Library of Congress takes up ten terabytes. You could carry it all in your pockets!"
+      },
+      {
+        "name": "Kilobit",
+        "conversion": 1000,
+        "description": "Half of a byte. Please laugh."
+      },
+      {
+        "name": "Megabyte",
+        "conversion": 0.125,
+        "description": "nil"
+      },
+      {
+        "name": "Kilobyte",
+        "conversion": 125,
+        "description": "nil"
+      },
+      {
+        "name": "Gigabyte",
+        "conversion": 0.000125,
+        "description": "nil"
+      },
+      {
+        "name": "Terabyte",
+        "conversion": 0.000000125,
+        "description": "nil"
+      },
+      {
+        "name": "Petabyte",
+        "conversion": 0.000000000125,
+        "description": "nil"
+      },
+      {
+        "name": "Gigabit",
+        "conversion": 0.001,
+        "description": "nil"
+      }
+    ],
+    "Energy": [
+      {
+        "name": "Joule",
+        "conversion": 1.0,
+        "description": "This is the SI unit of measurement for energy.",
+        "base_unit": true
+      },
+      {
+        "name": "Kilo Joule",
+        "conversion": 0.001,
+        "description": "The amount of energy needed to raise a gram of water by 1 degree Celcius."
+      },
+      {
+        "name": "Gram Calorie",
+        "conversion": 0.239006,
+        "description": "Also known as Calorie with a capital C, this is what appears on many nutrition labels. Yep, you're eating kilocalories, not little calories."
+      },
+      {
+        "name": "Kilo-Calorie",
+        "conversion": 0.000239006,
+        "description": "The energy needed to raise one pound a distance of one foot. Useful to know when fishing up freshly-baked pound cakes from the windowsill below yours."
+      },
+      {
+        "name": "Watt hour",
+        "conversion": 0.00028,
+        "description": "When you're late and every cell in your body expends as much energy as possible to get you to your destination."
+      },
+      {
+        "name": "Kilo Watt hour",
+        "conversion": 0.00000028,
+        "description": "When you're late and every cell in your body expends as much energy as possible to get you to your destination."
+      }
+    ]
+  }
+
